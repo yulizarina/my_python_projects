@@ -4,7 +4,6 @@ This Python project creates a Telegram bot that periodically sends news updates 
 Features
 Fetches immigration and visa news articles every 4 hours.
 Filters articles based on keywords (e.g., "visa," "immigration," "policy").
-Identifies country-specific articles (e.g., USA, UK, Canada) based on keywords.
 Sends formatted article summaries with links directly to a Telegram chat.
 Responds to the /start command to send an initial news update.
 Setup
